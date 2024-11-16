@@ -1,6 +1,8 @@
 # ml
 torch==2.0.0
 transformers==4.28.1
+numpy==1.24.1 
+pandas==2.0.3
 # web framework
 fastapi==0.95.1
 uvicorn==0.21.1
